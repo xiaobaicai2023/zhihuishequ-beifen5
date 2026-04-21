@@ -14,7 +14,7 @@
 springboot+mybatisplus+mysql 用户端 uniapp（vue语法）管理后台 vue+elementUi
 适配小程序+APP+H5+公众号
 
-# 技术栈
+# 技术栈·
 
 后台服务 springboot+mybatisplus+mysql
 用户端 uniapp（vue语法）
